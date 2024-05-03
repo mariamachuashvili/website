@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+header h1 {
+    display: flex;
+    align-items: center;
+ 
+    
+}
+
+
+div a {
+    text-decoration: none;
+    margin-right: 12px;
+    justify-content: space-between; 
+    color: black;
+
+}
+
+.button {
+    padding: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #405cfc;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+}
+.start{
+    font-size: 45px;
+}
+.fexsacmeli{
+    width: 100%;
+}
+.warwerebi{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none; 
+    justify-content: space-around; 
+    padding: 10px; 
+    line-height: 35px;
+
+}
+.website{
+    color: rgb(99, 195, 255);
+}
